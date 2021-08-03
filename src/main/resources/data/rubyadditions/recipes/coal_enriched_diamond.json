@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": "rubyadditions:coal_enriched_diamond",
+  "experience": 0.5,
+  "cookingtime": 4000
+}

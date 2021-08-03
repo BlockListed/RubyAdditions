@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "RDR",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rubyadditions:ruby"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "rubyadditions:ruby_block",
+    "count": 1
+  }
+}

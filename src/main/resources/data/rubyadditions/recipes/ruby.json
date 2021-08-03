@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "rubyadditions:more_enriched_diamond"
+  },
+  "result": "rubyadditions:ruby",
+  "experience": 50,
+  "cookingtime": 600
+}
