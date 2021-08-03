@@ -21,7 +21,6 @@
     ]
   },
   "mixins": [
-    "RubyAdditions.mixins.json"
   ],
 
   "depends": {
