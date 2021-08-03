@@ -1,5 +1,5 @@
 /*
-* This class creates and register all non special blocks in this mod
+* This class registers all  blocks in this mod
 * */
 
 package dev.blocklisted.RubyAdditions.registry;

@@ -2,6 +2,7 @@ package dev.blocklisted.RubyAdditions;
 
 import dev.blocklisted.RubyAdditions.registry.ModBlocks;
 import dev.blocklisted.RubyAdditions.registry.ModItems;
+import dev.blocklisted.RubyAdditions.registry.ModEnchantments;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.ItemGroup;
 
@@ -17,5 +18,6 @@ public class RubyAdditions implements ModInitializer {
         // Register non special items and blocks
         ModBlocks.registerBlocks();
         ModItems.registerItems();
+        ModEnchantments.registerEnchantments();
     }
 }
