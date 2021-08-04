@@ -2,7 +2,9 @@
   "required": true,
   "minVersion": "0.8",
   "compatibilityLevel": "JAVA_16",
+  "package": "dev.blocklisted.RubyAdditions.mixins",
   "mixins": [
+    "LivingEntityMixin"
   ],
   "client": [
   ],
